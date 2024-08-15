@@ -1,2 +1,4 @@
 # PythonparaAnalisedeDados
-Repositórios dos laboratórios do curso: Python para Análise de Dados na plataforma EBAC.
+Repositório dos laboratórios do Curso: Python para Análise de Dados da plataforma EBAC.
+
+- LaB01 - Variáveis e tipos de dados
